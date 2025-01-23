@@ -50,6 +50,11 @@ public class CommentsAndVariabiles {
        * double height = 5.7;
        * System.out.println("Name: " + name + ", Age: " + age + ", Height: " + height);*/
 
-        System.out.println ("firstCharFromAscii: " + firstCharFromAscii + ", firstCharFromAscii: " + lastCharFromAscii + ",  lowerLimitOfByte:" +  lowerLimitOfByte + ", upperLimitOfByte:" + upperLimitOfByte);
+        System.out.println ("firstCharFromAscii: " + firstCharFromAscii + ", firstCharFromAscii: " + lastCharFromAscii + ",  lowerLimitOfByte:" +  lowerLimitOfByte + ", upperLimitOfByte:" + upperLimitOfByte + ", lowerLimitOfShort:" + lowerLimitOfShort + ", upperLimitOfShort" + upperLimitOfShort);
+        System.out.println("lowerLimitOfInt:" + lowerLimitOfInt);
+        System.out.println("upperLimitOfInt: " + upperLimitOfInt);
+        System.out.println("lowerLimitOfLong: " + lowerLimitOfLong + ", upperLimitOfLong: " + upperLimitOfLong);
+        System.out.println("lowerLimitOfFloat: " + lowerLimitOfFloat + ", upperLimitOfFloat: " + upperLimitOfFloat);
+        System.out.println("lowerLimitOfDouble: " + lowerLimitOfDouble + ", lowerLimitOfDouble: " + lowerLimitOfDouble);
     }
 }
