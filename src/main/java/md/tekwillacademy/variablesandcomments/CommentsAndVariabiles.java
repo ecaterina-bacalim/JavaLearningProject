@@ -53,7 +53,7 @@ public class CommentsAndVariabiles {
         System.out.println ("firstCharFromAscii: " + firstCharFromAscii + ", firstCharFromAscii: " + lastCharFromAscii + ",  lowerLimitOfByte:" +  lowerLimitOfByte + ", upperLimitOfByte:" + upperLimitOfByte + ", lowerLimitOfShort:" + lowerLimitOfShort + ", upperLimitOfShort" + upperLimitOfShort);
         System.out.println("lowerLimitOfInt:" + lowerLimitOfInt);
         System.out.println("upperLimitOfInt: " + upperLimitOfInt);
-        System.out.println("lowerLimitOfLong: " + lowerLimitOfLong + ", upperLimitOfLong: " + upperLimitOfLong);
+        System.out.println("lowerLimitOfLong: " + lowerLimitOfLong + "upperLimitOfLong: " + upperLimitOfLong);
         System.out.println("lowerLimitOfFloat: " + lowerLimitOfFloat + ", upperLimitOfFloat: " + upperLimitOfFloat);
         System.out.println("lowerLimitOfDouble: " + lowerLimitOfDouble + ", lowerLimitOfDouble: " + lowerLimitOfDouble);
     }
